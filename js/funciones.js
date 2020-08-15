@@ -4,3 +4,4 @@ function funciones(){
 	alert(nom);
 
 }
+cualquier cosa
