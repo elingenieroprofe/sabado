@@ -1,5 +1,6 @@
 function funciones(){
 
-	alert("Hola");
+	var nom = document.getElementById("txtNombre").value;
+	alert(nom);
 
 }
