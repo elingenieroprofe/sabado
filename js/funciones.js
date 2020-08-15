@@ -1,0 +1,5 @@
+function funciones(){
+
+	alert("Hola");
+
+}
